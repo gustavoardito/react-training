@@ -2,7 +2,6 @@
 
 # dependencies
 node_modules/
-RNCourse/node_modules/
 
 # Expo
 .expo/
